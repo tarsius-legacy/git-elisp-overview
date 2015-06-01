@@ -1,0 +1,85 @@
+* One repository to bind them all
+
+There is more to Git than magic.  A list of Git related Emacs
+packages, compiled by the maintainer of Magit.  The intention is to
+list /all/ such packages in existence.  Please tell me about packages
+that I have missed.
+
+You can quickly get these packages by cloning this repository and its
+submodules, by doing this once:
+
+#+BEGIN_SRC shell
+git clone git@github.com:tarsius/git-elisp.git
+cd git-elisp
+make init
+#+END_SRC
+
+and then to update use
+
+#+BEGIN_SRC shell
+make pull
+#+END_SRC
+
+** All Packages
+
++ *SEMI-OBSOLETE* [[https://github.com/tarao/anything-git-files-el][anything-git-files]] anything for git files
++ *SEMI-OBSOLETE* [[https://github.com/mechairoi/anything-git-grep][anything-git-grep]] anything for git grep
++ [[https://github.com/arnested/bug-reference-github][bug-reference-github]] Automatically set =bug-reference-url-format= in Github repositories.
++ [[http://download.gna.org/dvc/][dvcs]] generic version control package supporting various distributed vcs
++ [[https://github.com/syohex/emacs-dired-k][dired-k]] highlight dired buffer by file size, modified time, git status
++ [[https://github.com/byplayer/egg][egg]] Emacs Got Git - Emacs interface to Git
++ [[https://github.com/hoffstaetter/find-file-in-repository][find-file-in-repository]] Quickly find files in a git, mercurial or other repository
++ [[https://github.com/eglaysher/find-things-fast][find-things-fast]] Find things fast, leveraging the power of git
++ [[https://github.com/sigma/gh.el][gh]] Github API client libraries
++ [[https://github.com/defunkt/gist.el][gist]] Emacs integration for gist.github.com
++ *CONFLICT* git
+  + [[https://github.com/git/git/blob/master/contrib/emacs/git.el][git]] A user interface for git
+  + [[https://github.com/rejeep/git.el][git]] An Elisp API for programmatically using Git
++ [[https://github.com/jwiegley/git-annex-el][git-annex]] Mode for easy editing of git-annex'd files
++ [[https://github.com/ryuslash/git-auto-commit-mode][git-auto-commit-mode]] Emacs Minor mode to automatically commit and push
++ [[https://github.com/git/git/blob/master/contrib/emacs/git-blame.el][git-blame]] Minor mode for incremental blame for Git
++ *BROKEN* [[https://github.com/yasuyk/git-commit-training-wheels-mode][git-commit-training-wheels-mode]] Advice for magit-log-edit-commit
++ [[https://github.com/tsgates/git-emacs][git-emacs]] yet another git emacs mode for newbies
++ [[https://github.com/syohex/emacs-git-gutter][git-gutter]] Port of Sublime Text plugin GitGutter
++ [[https://github.com/nonsequitur/git-gutter-plus][git-gutter+]] Manage Git hunks straight from the buffer
++ [[https://github.com/syohex/emacs-git-gutter-fringe][git-gutter-fringe]] Fringe version of git-gutter.el
++ [[https://github.com/nonsequitur/git-gutter-fringe-plus][git-gutter-fringe+]] Fringe version of git-gutter+.el
++ [[https://github.com/osener/github-browse-file][github-browse-file]] View the file you're editing on GitHub
++ [[https://github.com/dgtized/github-clone.el][github-clone]] Fork and clone github repos
++ [[https://github.com/sshaw/git-link][git-link]] Get the GitHub/Bitbucket/Gitorious URL for a buffer location
++ [[https://github.com/syohex/emacs-git-messenger][git-messenger]] Pop up last commit information of current line
++ [[https://github.com/magit/git-modes][git-modes]] various loosely related libraries
+  + git-commit-mode (will be replaced by git-commit in magit v2.1.0)
+  + git-rebase-mode (will be replaced by git-rebase in magit v2.1.0)
+  + gitattributes-mode
+  + gitconfig-mode
+  + gitignore-mode
++ [[https://github.com/pidu/git-timemachine][git-timemachine]] Walk through git revisions of a file
++ [[https://github.com/jorgenschaefer/gitty][gitty]] vc-mode extension for fast git interaction
++ [[https://github.com/antham/helm-backup][helm-backup]] Backup each file change using git
++ [[https://github.com/maio/helm-git][helm-git]] Helm extension for Git
++ [[https://github.com/kenbeese/helm-git-files][helm-git-files]] helm for git files
++ [[https://github.com/yasuyk/helm-git-grep][helm-git-grep]] helm for git grep, an incremental git-grep(1)
++ [[https://github.com/Sliim/helm-github-stars][helm-github-stars]] Helm integration for your starred repositories on github
++ [[https://github.com/emacs-helm/helm-ls-git][helm-ls-git]] list git files
++ [[https://github.com/syohex/emacs-helm-open-github][helm-open-github]] Utilities of Opening Github Page
++ [[https://github.com/jrockway/ibuffer-git][ibuffer-git]] show git status in ibuffer column
++ [[https://github.com/magit/magit][magit]] control Git from Emacs
++ [[https://github.com/kyleam/magit-annex][magit-annex]] Use git annex within magit
++ *BROKEN* [[https://github.com/re5et/magit-commit-training-wheels][magit-commit-training-wheels]] Advice for magit-log-edit-commit
++ [[https://github.com/magit/magit-filenotify][magit-filenotify]] Refresh status buffer when git tree changes
++ [[https://github.com/bradleywright/magit-find-file.el][magit-find-file]] completing-read over all files in Git
++ [[https://github.com/terranpro/magit-gerrit][magit-gerrit]] Magit plugin for Gerrit Code Review
++ [[https://github.com/sigma/magit-gh-pulls][magit-gh-pulls]] GitHub pull requests extension for Magit
++ [[https://github.com/jtatarik/magit-gitflow][magit-gitflow]] gitflow extension for magit
++ *OBSOLETE* [[https://github.com/magit/magit-log-edit][magit-log-edit]] major mode for editing Git commit messages
++ [[https://github.com/tarsius/magit-push-remote][magit-push-remote]] push remote support for Magit
++ [[https://github.com/magit/magit-tramp][magit-tramp]] git method for TRAMP
++ *BROKEN* [[https://github.com/nex3/magithub][magithub]] Magit + GitHub
++ [[https://github.com/mbunkus/mo-git-blame][mo-git-blame]] An interactive, iterative =git blame= mode for Emacs
++ [[https://github.com/chmouel/openstack-cgit-browse-file][openstack-cgit-browse-file]] Browse the current file in OpenStack cgit
++ [[https://github.com/magit/orgit][orgit]] support for Org links to Magit buffers
++ *OBSOLETE* [[https://github.com/magit/org-magit][org-magit]] basic support for magit links (instead use orgit)
++ [[https://github.com/leoliu/pcmpl-git-el][pcmpl-git]] pcomplete for git
++ [[http://www.gnu.org/software/emacs/manual/html_node/emacs/Version-Control.html#Version-Control][Version Control]] generic version control package supporting various vcs
++ [[https://github.com/mhayashi1120/yagist.el][yagist]] Yet Another Emacs integration for gist.github.com
