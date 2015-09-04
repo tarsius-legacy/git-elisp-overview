@@ -10,6 +10,9 @@
 	path = modules/bug-reference-github
 	url = git://github.com/arnested/bug-reference-github.git
 	branch = master
+[submodule "diff-hl"]
+	path = modules/diff-hl
+	url = git://github.com/dgutov/diff-hl.git
 [submodule "dired-k"]
 	path = modules/dired-k
 	url = git://github.com/syohex/emacs-dired-k.git
