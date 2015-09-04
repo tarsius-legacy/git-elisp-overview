@@ -13,6 +13,7 @@
 [submodule "diff-hl"]
 	path = modules/diff-hl
 	url = git://github.com/dgutov/diff-hl.git
+	branch = master
 [submodule "dired-k"]
 	path = modules/dired-k
 	url = git://github.com/syohex/emacs-dired-k.git
@@ -28,6 +29,10 @@
 [submodule "find-things-fast"]
 	path = modules/find-things-fast
 	url = git://github.com/eglaysher/find-things-fast.git
+	branch = master
+[submodule "gerrit-download"]
+	path = modules/gerrit-download
+	url = git://github.com/chmouel/gerrit-download.el.git
 	branch = master
 [submodule "gh"]
 	path = modules/gh
@@ -133,6 +138,10 @@
 	path = modules/ibuffer-git
 	url = git://github.com/jrockway/ibuffer-git.git
 	branch = master
+[submodule "jist"]
+	path = modules/jist
+	url = git://github.com/emacs-pe/jist.el.git
+	branch = master
 [submodule "magit"]
 	path = modules/magit
 	url = git://github.com/magit/magit.git
@@ -172,6 +181,18 @@
 [submodule "magit-push-remote"]
 	path = modules/magit-push-remote
 	url = git://github.com/tarsius/magit-push-remote.git
+	branch = master
+[submodule "magit-stgit"]
+	path = modules/magit-stgit
+	url = git://github.com/magit/magit-stgit.git
+	branch = master
+[submodule "magit-svn"]
+	path = modules/magit-svn
+	url = git://github.com/magit/magit-svn.git
+	branch = master
+[submodule "magit-topgit"]
+	path = modules/magit-topgit
+	url = git://github.com/magit/magit-topgit.git
 	branch = master
 [submodule "magit-tramp"]
 	path = modules/magit-tramp

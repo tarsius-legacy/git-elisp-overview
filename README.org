@@ -31,6 +31,7 @@ make pull
 + [[https://github.com/byplayer/egg][egg]] Emacs Got Git - Emacs interface to Git
 + [[https://github.com/hoffstaetter/find-file-in-repository][find-file-in-repository]] Quickly find files in a git, mercurial or other repository
 + [[https://github.com/eglaysher/find-things-fast][find-things-fast]] Find things fast, leveraging the power of git
++ [[https://github.com/chmouel/gerrit-download.el][gerrit-download]] Show gerrit reviews in a diff buffer
 + [[https://github.com/sigma/gh.el][gh]] Github API client libraries
 + [[https://github.com/defunkt/gist.el][gist]] Emacs integration for gist.github.com
 + *CONFLICT* git
@@ -69,6 +70,7 @@ make pull
 + [[https://github.com/emacs-helm/helm-ls-git][helm-ls-git]] list git files
 + [[https://github.com/syohex/emacs-helm-open-github][helm-open-github]] Utilities of Opening Github Page
 + [[https://github.com/jrockway/ibuffer-git][ibuffer-git]] show git status in ibuffer column
++ [[https://github.com/emacs-pe/jist.el][jist]] Manage gists from Emacs
 + [[https://github.com/magit/magit][magit]] control Git from Emacs
   - The Magit repository contains some libraries which are distributed
     as separate Elpa package.  The last two don't really have anything
@@ -85,6 +87,9 @@ make pull
 + [[https://github.com/jtatarik/magit-gitflow][magit-gitflow]] gitflow extension for magit
 + *OBSOLETE* [[https://github.com/magit/magit-log-edit][magit-log-edit]] major mode for editing Git commit messages
 + *OBSOLETE* [[https://github.com/tarsius/magit-push-remote][magit-push-remote]] push remote support for Magit
++ [[https://github.com/magit/magit-stgit][magit-stgit]] StGit extension for Magit
++ [[https://github.com/magit/magit-svn][magit-svn]] Git-Svn extension for Magit
++ [[https://github.com/magit/magit-topgit][magit-topgit]] TopGit extension for Magit
 + [[https://github.com/magit/magit-tramp][magit-tramp]] git method for TRAMP
 - *BROKEN* [[https://github.com/nex3/magithub][magithub]] Magit + GitHub
 + [[https://github.com/mbunkus/mo-git-blame][mo-git-blame]] An interactive, iterative =git blame= mode for Emacs
