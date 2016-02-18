@@ -1,4 +1,4 @@
-.PHONY: init pull
+.PHONY: help init fetch pull
 
 help:
 	$(info make init   - initialize all modules)
@@ -15,5 +15,4 @@ fetch:
 	git pull --recurse-submodules
 
 pull:
-	git pull --recurse-submodules
-	git submodule foreach git pull
+	git submodule foreach 'git pull --ff-only || true'
