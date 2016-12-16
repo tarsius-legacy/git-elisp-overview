@@ -219,3 +219,6 @@
 [submodule "magithub"]
 	path = modules/magithub
 	url = git@github.com:vermiculus/magithub.git
+[submodule "magit-rockstar"]
+	path = modules/magit-rockstar
+	url = git@github.com:tarsius/magit-rockstar.git

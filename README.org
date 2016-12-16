@@ -79,6 +79,7 @@ make pull
 + [[https://github.com/jtatarik/magit-gitflow][magit-gitflow]] gitflow extension for magit
 + *OBSOLETE* [[https://github.com/magit/magit-log-edit][magit-log-edit]] major mode for editing Git commit messages
 + *OBSOLETE* [[https://github.com/tarsius/magit-push-remote][magit-push-remote]] push remote support for Magit
++ [[https://github.com/tarsius/magit-rockstar][magit-rockstar]] commit like a rockstar
 + [[https://github.com/magit/magit-stgit][magit-stgit]] StGit extension for Magit
 + [[https://github.com/magit/magit-svn][magit-svn]] Git-Svn extension for Magit
 + [[https://github.com/magit/magit-topgit][magit-topgit]] TopGit extension for Magit
