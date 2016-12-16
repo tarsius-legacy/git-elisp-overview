@@ -56,8 +56,7 @@
 	branch = master
 [submodule "git-commit-training-wheels-mode"]
 	path = modules/git-commit-training-wheels-mode
-	url = git://github.com/yasuyk/git-commit-training-wheels-mode.git
-	branch = master
+	url = git@github.com:emacsattic/git-commit-training-wheels-mode.git
 [submodule "git-emacs"]
 	path = modules/git-emacs
 	url = git://github.com/tsgates/git-emacs.git
