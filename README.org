@@ -83,7 +83,9 @@ make pull
 + [[https://github.com/magit/magit-svn][magit-svn]] Git-Svn extension for Magit
 + [[https://github.com/magit/magit-topgit][magit-topgit]] TopGit extension for Magit
 + [[https://github.com/magit/magit-tramp][magit-tramp]] git method for TRAMP
-- *BROKEN* [[https://github.com/nex3/magithub][magithub]] Magit + GitHub
++ *CONFLICT* magithub
+  + [[https://github.com/vermiculus/magithub][magithub]] Magit interfaces for GitHub
+  - *BROKEN* [[https://github.com/nex3/magithub][magithub]] Magit + GitHub
 + [[https://github.com/mbunkus/mo-git-blame][mo-git-blame]] An interactive, iterative =git blame= mode for Emacs
 + [[https://github.com/chmouel/openstack-cgit-browse-file][openstack-cgit-browse-file]] Browse the current file in OpenStack cgit
 + [[https://github.com/magit/orgit][orgit]] support for Org links to Magit buffers

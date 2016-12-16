@@ -216,3 +216,6 @@
 	path = modules/yagist
 	url = git://github.com/mhayashi1120/yagist.el
 	branch = master
+[submodule "magithub"]
+	path = modules/magithub
+	url = git@github.com:vermiculus/magithub.git
