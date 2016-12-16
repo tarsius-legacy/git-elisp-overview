@@ -102,10 +102,6 @@
 	path = modules/git-timemachine
 	url = git://github.com/pidu/git-timemachine.git
 	branch = master
-[submodule "gitty"]
-	path = modules/gitty
-	url = git://github.com/jorgenschaefer/gitty.git
-	branch = master
 [submodule "helm-backup"]
 	path = modules/helm-backup
 	url = git://github.com/antham/helm-backup.git

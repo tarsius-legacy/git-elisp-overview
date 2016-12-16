@@ -57,7 +57,6 @@ make pull
   - ~gitconfig-mode~ Major mode for editing .gitconfig files
   - ~gitignore-mode~ Major mode for editing .gitignore files
 + [[https://github.com/pidu/git-timemachine][git-timemachine]] Walk through git revisions of a file
-+ [[https://github.com/jorgenschaefer/gitty][gitty]] vc-mode extension for fast git interaction
 + [[https://github.com/antham/helm-backup][helm-backup]] Backup each file change using git
 + [[https://github.com/maio/helm-git][helm-git]] Helm extension for Git
 + [[https://github.com/kenbeese/helm-git-files][helm-git-files]] helm for git files
