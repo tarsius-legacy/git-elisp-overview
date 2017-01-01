@@ -43,6 +43,7 @@ make pull
 - [[https://github.com/git/git/blob/master/contrib/emacs/git-blame.el][git-blame]] Minor mode for incremental blame for Git
   - distributed with git itself
 + *BROKEN* [[https://github.com/emacsattic/git-commit-training-wheels-mode][git-commit-training-wheels-mode]] Advice for magit-log-edit-commit
++ [[https://github.com/10sr/git-command-el][git-command]] Yet another Git interface
 + [[https://github.com/tsgates/git-emacs][git-emacs]] yet another git emacs mode for newbies
 + [[https://github.com/syohex/emacs-git-gutter][git-gutter]] Port of Sublime Text plugin GitGutter
 + [[https://github.com/nonsequitur/git-gutter-plus][git-gutter+]] Manage Git hunks straight from the buffer

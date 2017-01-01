@@ -222,3 +222,6 @@
 [submodule "magit-rockstar"]
 	path = modules/magit-rockstar
 	url = git@github.com:tarsius/magit-rockstar.git
+[submodule "git-command"]
+	path = modules/git-command
+	url = git@github.com:10sr/git-command-el.git
