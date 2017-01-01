@@ -225,3 +225,6 @@
 [submodule "git-command"]
 	path = modules/git-command
 	url = git@github.com:10sr/git-command-el.git
+[submodule "gitlab"]
+	path = modules/gitlab
+	url = git@github.com:nlamirault/emacs-gitlab.git

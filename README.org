@@ -51,6 +51,7 @@ make pull
 + [[https://github.com/nonsequitur/git-gutter-fringe-plus][git-gutter-fringe+]] Fringe version of git-gutter+.el
 + [[https://github.com/osener/github-browse-file][github-browse-file]] View the file you're editing on GitHub
 + [[https://github.com/dgtized/github-clone.el][github-clone]] Fork and clone github repos
++ [[https://github.com/nlamirault/emacs-gitlab][gitlab]] Emacs client for Gitlab
 + [[https://github.com/sshaw/git-link][git-link]] Get the GitHub/Bitbucket/Gitorious URL for a buffer location
 + [[https://github.com/syohex/emacs-git-messenger][git-messenger]] Pop up last commit information of current line
 + [[https://github.com/magit/git-modes][git-modes]] major-modes for various Git-related files
