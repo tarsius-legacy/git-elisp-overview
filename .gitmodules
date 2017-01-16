@@ -104,6 +104,9 @@
 	path = modules/github-clone
 	url = git://github.com/dgtized/github-clone.el.git
 	branch = master
+[submodule "github-pullrequest"]
+	path = modules/github-pullrequest
+	url = git@github.com:jakoblind/github-pullrequest.git
 [submodule "gitlab"]
 	path = modules/gitlab
 	url = git@github.com:nlamirault/emacs-gitlab.git
