@@ -224,6 +224,9 @@
 	path = modules/pcmpl-git
 	url = git://github.com/leoliu/pcmpl-git-el.git
 	branch = master
+[submodule "vdiff"]
+	path = modules/vdiff
+	url = git@github.com:justbur/emacs-vdiff.git
 [submodule "yagist"]
 	path = modules/yagist
 	url = git://github.com/mhayashi1120/yagist.el

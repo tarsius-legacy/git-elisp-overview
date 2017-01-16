@@ -95,5 +95,6 @@ make pull
 + [[https://github.com/magit/orgit][orgit]] support for Org links to Magit buffers
 + *OBSOLETE* [[https://github.com/magit/org-magit][org-magit]] basic support for magit links (instead use orgit)
 + [[https://github.com/leoliu/pcmpl-git-el][pcmpl-git]] pcomplete for git
++ [[https://github.com/justbur/emacs-vdiff][vdiff]] A diff tool similar to vimdiff
 - [[http://www.gnu.org/software/emacs/manual/html_node/emacs/Version-Control.html#Version-Control][Version Control]] generic version control package supporting various vcs
 + [[https://github.com/mhayashi1120/yagist.el][yagist]] Yet Another Emacs integration for gist.github.com
