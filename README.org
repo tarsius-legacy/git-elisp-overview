@@ -28,6 +28,7 @@ make pull
 + [[https://github.com/dgutov/diff-hl][diff-hl]] highlighting uncommitted changes in file-visiting buffers
 + [[https://github.com/syohex/emacs-dired-k][dired-k]] highlight dired buffer by file size, modified time, git status
 - [[http://download.gna.org/dvc/][dvcs]] generic version control package supporting various distributed vcs
+- [[https://www.gnu.org/software/emacs/manual/ediff.html][ediff]] a comprehensive visual interface to diff & patch
 + [[https://github.com/byplayer/egg][egg]] Emacs Got Git - Emacs interface to Git
 + [[https://github.com/hoffstaetter/find-file-in-repository][find-file-in-repository]] Quickly find files in a git, mercurial or other repository
 + [[https://github.com/eglaysher/find-things-fast][find-things-fast]] Find things fast, leveraging the power of git
