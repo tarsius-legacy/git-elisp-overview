@@ -1,59 +1,45 @@
 [submodule "anything-git-files"]
 	path = modules/anything-git-files
 	url = git://github.com/tarao/anything-git-files-el.git
-	branch = master
 [submodule "anything-git-grep"]
 	path = modules/anything-git-grep
 	url = git://github.com/mechairoi/anything-git-grep.git
-	branch = master
 [submodule "bug-reference-github"]
 	path = modules/bug-reference-github
 	url = git://github.com/arnested/bug-reference-github.git
-	branch = master
 [submodule "diff-hl"]
 	path = modules/diff-hl
 	url = git://github.com/dgutov/diff-hl.git
-	branch = master
 [submodule "dired-k"]
 	path = modules/dired-k
 	url = git://github.com/syohex/emacs-dired-k.git
-	branch = master
 [submodule "egg"]
 	path = modules/egg
 	url = git://github.com/byplayer/egg.git
-	branch = master
 [submodule "find-file-in-repository"]
 	path = modules/find-file-in-repository
 	url = git://github.com/hoffstaetter/find-file-in-repository.git
-	branch = master
 [submodule "find-things-fast"]
 	path = modules/find-things-fast
 	url = git://github.com/eglaysher/find-things-fast.git
-	branch = master
 [submodule "gerrit-download"]
 	path = modules/gerrit-download
 	url = git://github.com/chmouel/gerrit-download.el.git
-	branch = master
 [submodule "gh"]
 	path = modules/gh
 	url = git://github.com/sigma/gh.el.git
-	branch = master
 [submodule "gist"]
 	path = modules/gist
 	url = git://github.com/defunkt/gist.el.git
-	branch = master
 [submodule "git"]
 	path = modules/git
 	url = git://github.com/rejeep/git.el.git
-	branch = master
 [submodule "git-annex"]
 	path = modules/git-annex
 	url = git://github.com/jwiegley/git-annex-el.git
-	branch = master
 [submodule "git-auto-commit-mode"]
 	path = modules/git-auto-commit-mode
 	url = git://github.com/ryuslash/git-auto-commit-mode.git
-	branch = master
 [submodule "git-command"]
 	path = modules/git-command
 	url = git@github.com:10sr/git-command-el.git
@@ -63,47 +49,36 @@
 [submodule "git-emacs"]
 	path = modules/git-emacs
 	url = git://github.com/tsgates/git-emacs.git
-	branch = master
 [submodule "git-gutter"]
 	path = modules/git-gutter
 	url = git://github.com/syohex/emacs-git-gutter.git
-	branch = master
 [submodule "git-gutter+"]
 	path = modules/git-gutter+
 	url = git://github.com/nonsequitur/git-gutter-plus.git
-	branch = master
 [submodule "git-gutter-fringe"]
 	path = modules/git-gutter-fringe
 	url = git://github.com/syohex/emacs-git-gutter-fringe.git
-	branch = master
 [submodule "git-gutter-fringe+"]
 	path = modules/git-gutter-fringe+
 	url = git://github.com/nonsequitur/git-gutter-fringe-plus.git
-	branch = master
 [submodule "git-link"]
 	path = modules/git-link
 	url = git://github.com/sshaw/git-link.git
-	branch = master
 [submodule "git-messenger"]
 	path = modules/git-messenger
 	url = git://github.com/syohex/emacs-git-messenger.git
-	branch = master
 [submodule "git-modes"]
 	path = modules/git-modes
 	url = git://github.com/magit/git-modes.git
-	branch = next
 [submodule "git-timemachine"]
 	path = modules/git-timemachine
 	url = git://github.com/pidu/git-timemachine.git
-	branch = master
 [submodule "github-browse-file"]
 	path = modules/github-browse-file
 	url = git://github.com/osener/github-browse-file.git
-	branch = master
 [submodule "github-clone"]
 	path = modules/github-clone
 	url = git://github.com/dgtized/github-clone.el.git
-	branch = master
 [submodule "github-pullrequest"]
 	path = modules/github-pullrequest
 	url = git@github.com:jakoblind/github-pullrequest.git
@@ -113,124 +88,96 @@
 [submodule "helm-backup"]
 	path = modules/helm-backup
 	url = git://github.com/antham/helm-backup.git
-	branch = master
 [submodule "helm-git"]
 	path = modules/helm-git
 	url = git://github.com/maio/helm-git.git
-	branch = master
 [submodule "helm-git-files"]
 	path = modules/helm-git-files
 	url = git://github.com/kenbeese/helm-git-files.git
-	branch = master
 [submodule "helm-git-grep"]
 	path = modules/helm-git-grep
 	url = git://github.com/yasuyk/helm-git-grep.git
-	branch = master
 [submodule "helm-github-stars"]
 	path = modules/helm-github-stars
 	url = git://github.com/Sliim/helm-github-stars.git
-	branch = master
 [submodule "helm-ls-git"]
 	path = modules/helm-ls-git
 	url = git://github.com/emacs-helm/helm-ls-git.git
-	branch = master
 [submodule "helm-open-github"]
 	path = modules/helm-open-github
 	url = git://github.com/syohex/emacs-helm-open-github.git
-	branch = master
 [submodule "ibuffer-git"]
 	path = modules/ibuffer-git
 	url = git://github.com/jrockway/ibuffer-git.git
-	branch = master
 [submodule "jist"]
 	path = modules/jist
 	url = git://github.com/emacs-pe/jist.el.git
-	branch = master
 [submodule "magit"]
 	path = modules/magit
 	url = git://github.com/magit/magit.git
-	branch = next
 [submodule "magit-annex"]
 	path = modules/magit-annex
 	url = git://github.com/kyleam/magit-annex.git
-	branch = next
 [submodule "magit-commit-training-wheels"]
 	path = modules/magit-commit-training-wheels
 	url = git://github.com/re5et/magit-commit-training-wheels.git
-	branch = master
 [submodule "magit-filenotify"]
 	path = modules/magit-filenotify
 	url = git://github.com/magit/magit-filenotify.git
-	branch = master
 [submodule "magit-find-file"]
 	path = modules/magit-find-file
 	url = git://github.com/bradleywright/magit-find-file.el.git
-	branch = master
 [submodule "magit-gerrit"]
 	path = modules/magit-gerrit
 	url = git://github.com/terranpro/magit-gerrit.git
-	branch = master
 [submodule "magit-gh-pulls"]
 	path = modules/magit-gh-pulls
 	url = git://github.com/sigma/magit-gh-pulls.git
-	branch = master
 [submodule "magit-gitflow"]
 	path = modules/magit-gitflow
 	url = git://github.com/jtatarik/magit-gitflow.git
-	branch = next
 [submodule "magit-log-edit"]
 	path = modules/magit-log-edit
 	url = git://github.com/magit/magit-log-edit.git
-	branch = master
 [submodule "magit-push-remote"]
 	path = modules/magit-push-remote
 	url = git://github.com/tarsius/magit-push-remote.git
-	branch = master
 [submodule "magit-rockstar"]
 	path = modules/magit-rockstar
 	url = git@github.com:tarsius/magit-rockstar.git
 [submodule "magit-stgit"]
 	path = modules/magit-stgit
 	url = git://github.com/magit/magit-stgit.git
-	branch = master
 [submodule "magit-svn"]
 	path = modules/magit-svn
 	url = git://github.com/magit/magit-svn.git
-	branch = master
 [submodule "magit-topgit"]
 	path = modules/magit-topgit
 	url = git://github.com/magit/magit-topgit.git
-	branch = master
 [submodule "magit-tramp"]
 	path = modules/magit-tramp
 	url = git://github.com/magit/magit-tramp.git
-	branch = master
 [submodule "magithub"]
 	path = modules/magithub
 	url = git@github.com:vermiculus/magithub.git
 [submodule "mo-git-blame"]
 	path = modules/mo-git-blame
 	url = git://github.com/mbunkus/mo-git-blame.git
-	branch = master
 [submodule "openstack-cgit-browse-file"]
 	path = modules/openstack-cgit-browse-file
 	url = git://github.com/chmouel/openstack-cgit-browse-file.git
-	branch = master
 [submodule "org-magit"]
 	path = modules/org-magit
 	url = git://github.com/magit/org-magit.git
-	branch = master
 [submodule "orgit"]
 	path = modules/orgit
 	url = git://github.com/magit/orgit.git
 [submodule "pcmpl-git"]
 	path = modules/pcmpl-git
 	url = git://github.com/leoliu/pcmpl-git-el.git
-	branch = master
 [submodule "vdiff"]
 	path = modules/vdiff
 	url = git@github.com:justbur/emacs-vdiff.git
 [submodule "yagist"]
 	path = modules/yagist
 	url = git://github.com/mhayashi1120/yagist.el
-	branch = master
