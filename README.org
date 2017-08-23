@@ -9,8 +9,8 @@ You can quickly get these packages by cloning this repository and its
 submodules, by doing this once:
 
 #+BEGIN_SRC shell
-git clone git@github.com:tarsius/git-elisp.git
-cd git-elisp
+git clone git@github.com:tarsius/git-elisp-overview.git
+cd git-elisp-overview
 make init
 #+END_SRC
 
