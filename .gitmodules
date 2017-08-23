@@ -136,6 +136,9 @@
 [submodule "magit-gitflow"]
 	path = modules/magit-gitflow
 	url = git://github.com/jtatarik/magit-gitflow.git
+[submodule "magit-imerge"]
+	path = modules/magit-imerge
+	url = git://github.com/magit/magit-imerge.git
 [submodule "magit-log-edit"]
 	path = modules/magit-log-edit
 	url = git://github.com/magit/magit-log-edit.git
@@ -151,6 +154,9 @@
 [submodule "magit-svn"]
 	path = modules/magit-svn
 	url = git://github.com/magit/magit-svn.git
+[submodule "magit-tbdiff"]
+	path = modules/magit-tbdiff
+	url = git://github.com/magit/magit-tbdiff.git
 [submodule "magit-topgit"]
 	path = modules/magit-topgit
 	url = git://github.com/magit/magit-topgit.git
