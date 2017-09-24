@@ -187,3 +187,6 @@
 [submodule "yagist"]
 	path = modules/yagist
 	url = git://github.com/mhayashi1120/yagist.el
+[submodule "gited"]
+	path = modules/gited
+	url = git@github.com:calancha/Gited.git

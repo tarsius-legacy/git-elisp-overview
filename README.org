@@ -50,6 +50,7 @@ make pull
 + [[https://github.com/nonsequitur/git-gutter-plus][git-gutter+]] Manage Git hunks straight from the buffer
 + [[https://github.com/syohex/emacs-git-gutter-fringe][git-gutter-fringe]] Fringe version of git-gutter.el
 + [[https://github.com/nonsequitur/git-gutter-fringe-plus][git-gutter-fringe+]] Fringe version of git-gutter+.el
++ [[https://github.com/calancha/Gited][gited]] Operate on Git branches like dired
 + [[https://github.com/osener/github-browse-file][github-browse-file]] View the file you're editing on GitHub
 + [[https://github.com/dgtized/github-clone.el][github-clone]] Fork and clone github repos
 + [[https://github.com/jakoblind/github-pullrequest][github-pullrequest]] Create and fetch Github Pull requests with ease
