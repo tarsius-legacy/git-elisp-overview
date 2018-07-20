@@ -72,7 +72,7 @@
 	url = https://github.com/magit/git-modes.git
 [submodule "git-timemachine"]
 	path = modules/git-timemachine
-	url = https://github.com/pidu/git-timemachine.git
+	url = https://gitlab.com/pidu/git-timemachine.git
 [submodule "github-browse-file"]
 	path = modules/github-browse-file
 	url = https://github.com/osener/github-browse-file.git
