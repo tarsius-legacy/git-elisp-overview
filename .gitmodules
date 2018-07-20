@@ -1,192 +1,192 @@
 [submodule "anything-git-files"]
 	path = modules/anything-git-files
-	url = git://github.com/tarao/anything-git-files-el.git
+	url = https://github.com/tarao/anything-git-files-el.git
 [submodule "anything-git-grep"]
 	path = modules/anything-git-grep
-	url = git://github.com/mechairoi/anything-git-grep.git
+	url = https://github.com/mechairoi/anything-git-grep.git
 [submodule "bug-reference-github"]
 	path = modules/bug-reference-github
-	url = git://github.com/arnested/bug-reference-github.git
+	url = https://github.com/arnested/bug-reference-github.git
 [submodule "diff-hl"]
 	path = modules/diff-hl
-	url = git://github.com/dgutov/diff-hl.git
+	url = https://github.com/dgutov/diff-hl.git
 [submodule "dired-k"]
 	path = modules/dired-k
-	url = git://github.com/syohex/emacs-dired-k.git
+	url = https://github.com/syohex/emacs-dired-k.git
 [submodule "egg"]
 	path = modules/egg
-	url = git://github.com/byplayer/egg.git
+	url = https://github.com/byplayer/egg.git
 [submodule "find-file-in-repository"]
 	path = modules/find-file-in-repository
-	url = git://github.com/hoffstaetter/find-file-in-repository.git
+	url = https://github.com/hoffstaetter/find-file-in-repository.git
 [submodule "find-things-fast"]
 	path = modules/find-things-fast
-	url = git://github.com/eglaysher/find-things-fast.git
+	url = https://github.com/eglaysher/find-things-fast.git
 [submodule "gerrit-download"]
 	path = modules/gerrit-download
-	url = git://github.com/chmouel/gerrit-download.el.git
+	url = https://github.com/chmouel/gerrit-download.el.git
 [submodule "gh"]
 	path = modules/gh
-	url = git://github.com/sigma/gh.el.git
+	url = https://github.com/sigma/gh.el.git
 [submodule "gist"]
 	path = modules/gist
-	url = git://github.com/defunkt/gist.el.git
+	url = https://github.com/defunkt/gist.el.git
 [submodule "git"]
 	path = modules/git
-	url = git://github.com/rejeep/git.el.git
+	url = https://github.com/rejeep/git.el.git
 [submodule "git-annex"]
 	path = modules/git-annex
-	url = git://github.com/jwiegley/git-annex-el.git
+	url = https://github.com/jwiegley/git-annex-el.git
 [submodule "git-auto-commit-mode"]
 	path = modules/git-auto-commit-mode
-	url = git://github.com/ryuslash/git-auto-commit-mode.git
+	url = https://github.com/ryuslash/git-auto-commit-mode.git
 [submodule "git-command"]
 	path = modules/git-command
-	url = git@github.com:10sr/git-command-el.git
+	url = https://github.com/10sr/git-command-el.git
 [submodule "git-commit-training-wheels-mode"]
 	path = modules/git-commit-training-wheels-mode
-	url = git@github.com:emacsattic/git-commit-training-wheels-mode.git
+	url = https://github.com/emacsattic/git-commit-training-wheels-mode.git
 [submodule "git-emacs"]
 	path = modules/git-emacs
-	url = git://github.com/tsgates/git-emacs.git
+	url = https://github.com/tsgates/git-emacs.git
 [submodule "git-gutter"]
 	path = modules/git-gutter
-	url = git://github.com/syohex/emacs-git-gutter.git
+	url = https://github.com/syohex/emacs-git-gutter.git
 [submodule "git-gutter+"]
 	path = modules/git-gutter+
-	url = git://github.com/nonsequitur/git-gutter-plus.git
+	url = https://github.com/nonsequitur/git-gutter-plus.git
 [submodule "git-gutter-fringe"]
 	path = modules/git-gutter-fringe
-	url = git://github.com/syohex/emacs-git-gutter-fringe.git
+	url = https://github.com/syohex/emacs-git-gutter-fringe.git
 [submodule "git-gutter-fringe+"]
 	path = modules/git-gutter-fringe+
-	url = git://github.com/nonsequitur/git-gutter-fringe-plus.git
+	url = https://github.com/nonsequitur/git-gutter-fringe-plus.git
 [submodule "git-link"]
 	path = modules/git-link
-	url = git://github.com/sshaw/git-link.git
+	url = https://github.com/sshaw/git-link.git
 [submodule "git-messenger"]
 	path = modules/git-messenger
-	url = git://github.com/syohex/emacs-git-messenger.git
+	url = https://github.com/syohex/emacs-git-messenger.git
 [submodule "git-modes"]
 	path = modules/git-modes
-	url = git://github.com/magit/git-modes.git
+	url = https://github.com/magit/git-modes.git
 [submodule "git-timemachine"]
 	path = modules/git-timemachine
-	url = git://github.com/pidu/git-timemachine.git
+	url = https://github.com/pidu/git-timemachine.git
 [submodule "github-browse-file"]
 	path = modules/github-browse-file
-	url = git://github.com/osener/github-browse-file.git
+	url = https://github.com/osener/github-browse-file.git
 [submodule "github-clone"]
 	path = modules/github-clone
-	url = git://github.com/dgtized/github-clone.el.git
+	url = https://github.com/dgtized/github-clone.el.git
 [submodule "github-pullrequest"]
 	path = modules/github-pullrequest
-	url = git@github.com:jakoblind/github-pullrequest.git
+	url = https://github.com/jakoblind/github-pullrequest.git
 [submodule "gitlab"]
 	path = modules/gitlab
-	url = git@github.com:nlamirault/emacs-gitlab.git
+	url = https://github.com/nlamirault/emacs-gitlab.git
 [submodule "helm-backup"]
 	path = modules/helm-backup
-	url = git://github.com/antham/helm-backup.git
+	url = https://github.com/antham/helm-backup.git
 [submodule "helm-git"]
 	path = modules/helm-git
-	url = git://github.com/maio/helm-git.git
+	url = https://github.com/maio/helm-git.git
 [submodule "helm-git-files"]
 	path = modules/helm-git-files
-	url = git://github.com/kenbeese/helm-git-files.git
+	url = https://github.com/kenbeese/helm-git-files.git
 [submodule "helm-git-grep"]
 	path = modules/helm-git-grep
-	url = git://github.com/yasuyk/helm-git-grep.git
+	url = https://github.com/yasuyk/helm-git-grep.git
 [submodule "helm-github-stars"]
 	path = modules/helm-github-stars
-	url = git://github.com/Sliim/helm-github-stars.git
+	url = https://github.com/Sliim/helm-github-stars.git
 [submodule "helm-ls-git"]
 	path = modules/helm-ls-git
-	url = git://github.com/emacs-helm/helm-ls-git.git
+	url = https://github.com/emacs-helm/helm-ls-git.git
 [submodule "helm-open-github"]
 	path = modules/helm-open-github
-	url = git://github.com/syohex/emacs-helm-open-github.git
+	url = https://github.com/syohex/emacs-helm-open-github.git
 [submodule "ibuffer-git"]
 	path = modules/ibuffer-git
-	url = git://github.com/jrockway/ibuffer-git.git
+	url = https://github.com/jrockway/ibuffer-git.git
 [submodule "jist"]
 	path = modules/jist
-	url = git://github.com/emacs-pe/jist.el.git
+	url = https://github.com/emacs-pe/jist.el.git
 [submodule "magit"]
 	path = modules/magit
-	url = git://github.com/magit/magit.git
+	url = https://github.com/magit/magit.git
 [submodule "magit-annex"]
 	path = modules/magit-annex
-	url = git://github.com/kyleam/magit-annex.git
+	url = https://github.com/kyleam/magit-annex.git
 [submodule "magit-commit-training-wheels"]
 	path = modules/magit-commit-training-wheels
-	url = git://github.com/re5et/magit-commit-training-wheels.git
+	url = https://github.com/re5et/magit-commit-training-wheels.git
 [submodule "magit-filenotify"]
 	path = modules/magit-filenotify
-	url = git://github.com/magit/magit-filenotify.git
+	url = https://github.com/magit/magit-filenotify.git
 [submodule "magit-find-file"]
 	path = modules/magit-find-file
-	url = git://github.com/bradleywright/magit-find-file.el.git
+	url = https://github.com/bradleywright/magit-find-file.el.git
 [submodule "magit-gerrit"]
 	path = modules/magit-gerrit
-	url = git://github.com/terranpro/magit-gerrit.git
+	url = https://github.com/terranpro/magit-gerrit.git
 [submodule "magit-gh-pulls"]
 	path = modules/magit-gh-pulls
-	url = git://github.com/sigma/magit-gh-pulls.git
+	url = https://github.com/sigma/magit-gh-pulls.git
 [submodule "magit-gitflow"]
 	path = modules/magit-gitflow
-	url = git://github.com/jtatarik/magit-gitflow.git
+	url = https://github.com/jtatarik/magit-gitflow.git
 [submodule "magit-imerge"]
 	path = modules/magit-imerge
-	url = git://github.com/magit/magit-imerge.git
+	url = https://github.com/magit/magit-imerge.git
 [submodule "magit-log-edit"]
 	path = modules/magit-log-edit
-	url = git://github.com/magit/magit-log-edit.git
+	url = https://github.com/magit/magit-log-edit.git
 [submodule "magit-push-remote"]
 	path = modules/magit-push-remote
-	url = git://github.com/tarsius/magit-push-remote.git
+	url = https://github.com/tarsius/magit-push-remote.git
 [submodule "magit-rockstar"]
 	path = modules/magit-rockstar
-	url = git@github.com:tarsius/magit-rockstar.git
+	url = https://github.com/tarsius/magit-rockstar.git
 [submodule "magit-stgit"]
 	path = modules/magit-stgit
-	url = git://github.com/magit/magit-stgit.git
+	url = https://github.com/magit/magit-stgit.git
 [submodule "magit-svn"]
 	path = modules/magit-svn
-	url = git://github.com/magit/magit-svn.git
+	url = https://github.com/magit/magit-svn.git
 [submodule "magit-tbdiff"]
 	path = modules/magit-tbdiff
-	url = git://github.com/magit/magit-tbdiff.git
+	url = https://github.com/magit/magit-tbdiff.git
 [submodule "magit-topgit"]
 	path = modules/magit-topgit
-	url = git://github.com/magit/magit-topgit.git
+	url = https://github.com/magit/magit-topgit.git
 [submodule "magit-tramp"]
 	path = modules/magit-tramp
-	url = git://github.com/magit/magit-tramp.git
+	url = https://github.com/magit/magit-tramp.git
 [submodule "magithub"]
 	path = modules/magithub
-	url = git@github.com:vermiculus/magithub.git
+	url = https://github.com/vermiculus/magithub.git
 [submodule "mo-git-blame"]
 	path = modules/mo-git-blame
-	url = git://github.com/mbunkus/mo-git-blame.git
+	url = https://github.com/mbunkus/mo-git-blame.git
 [submodule "openstack-cgit-browse-file"]
 	path = modules/openstack-cgit-browse-file
-	url = git://github.com/chmouel/openstack-cgit-browse-file.git
+	url = https://github.com/chmouel/openstack-cgit-browse-file.git
 [submodule "org-magit"]
 	path = modules/org-magit
-	url = git://github.com/magit/org-magit.git
+	url = https://github.com/magit/org-magit.git
 [submodule "orgit"]
 	path = modules/orgit
-	url = git://github.com/magit/orgit.git
+	url = https://github.com/magit/orgit.git
 [submodule "pcmpl-git"]
 	path = modules/pcmpl-git
-	url = git://github.com/leoliu/pcmpl-git-el.git
+	url = https://github.com/leoliu/pcmpl-git-el.git
 [submodule "vdiff"]
 	path = modules/vdiff
-	url = git@github.com:justbur/emacs-vdiff.git
+	url = https://github.com/justbur/emacs-vdiff.git
 [submodule "yagist"]
 	path = modules/yagist
-	url = git://github.com/mhayashi1120/yagist.el
+	url = https://github.com/mhayashi1120/yagist.el
 [submodule "gited"]
 	path = modules/gited
-	url = git@github.com:calancha/Gited.git
+	url = https://github.com/calancha/Gited.git
